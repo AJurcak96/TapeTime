@@ -7,3 +7,6 @@ Features:
 Welcome text introducing visitors to the world of VHS tapes.
 Movie genres section showcasing various classic genres.
 Contact information for inquiries and questions.
+
+Contributing:
+We welcome contributions to improve the Tape Time VHS Store website. If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
